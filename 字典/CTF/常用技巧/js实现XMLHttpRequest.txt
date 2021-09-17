@@ -1,0 +1,23 @@
+  function getXhr(){
+    if (typeof XMLHttpRequest != 'undefined') {
+      return new XMLHttpRequest();
+    }
+  }
+  var xhr = getXhr();
+  var stringData = {
+    uname: '123',
+    password: '123',
+    code: ''
+  }
+  stringData = JSON.stringify(stringData);
+  //POST请求
+  xhr.open('POST', '/user/login');
+  xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  xhr.send(stringData)
+  xhr.onreadystatechange = function(res) {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        console.log(JSON.parse(xhr.responseText))
+      }
+    }
+  }

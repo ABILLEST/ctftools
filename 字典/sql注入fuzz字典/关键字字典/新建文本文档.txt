@@ -1,0 +1,15 @@
+select
+union
+8E0union
+8.0union
+\Nunion
+or
+and
+xor
+from
+for
+if
+case
+when
+like
+where

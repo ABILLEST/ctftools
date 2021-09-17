@@ -1,0 +1,222 @@
+Manifest-Version: 1.0
+
+Name: README.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DyrsOlPINFZGIeYjBuPB2khgz0Y=
+SHA256-Digest: WgVWy6OQJbNBiPd0PkdRJ25VhV+Uz2+x/39JS9KXTL0=
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Gi9sXu0IrUuXslLHYf+28DbcIHY=
+SHA256-Digest: 3A/xVFyA4G8EeSUXWcLcE31PtlnXEp7G8ZVjQDXhLsM=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pTkXd/alOeplI3hN79KqicaEgUY=
+SHA256-Digest: ZfYNGfv/SyA1uYCKsjertpjp9P5RY46lxFak71drbLw=
+
+Name: icons/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OTHwhz7XgFTEtsHTQ2uhOxeqZtQ=
+SHA256-Digest: Bxj8i+1EYGAfljZPHsZ021UwLqDDpYl3NDO3vqLZJkU=
+
+Name: theme/hackbar-panel.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3s2fHvb4p5LAXufMHjwAryJKTtc=
+SHA256-Digest: DvIEGCqZ0JrFrwpN9+ma9/t/Br10Di6omGoy0ubwkj8=
+
+Name: theme/hackbar.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ofGLlKTwYReAIfMkoQS91jrpn/0=
+SHA256-Digest: AyK775P9AuRIliFfHobGh6k2lW0PMwE0hHAgsG83PIM=
+
+Name: theme/css/style.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8HVVIi/bcXwG8lotRo9I8PGaJsU=
+SHA256-Digest: SakMcr/zdVaZ2E+hv1LTEkaqjF+OxdoyeRMpiOsV1yk=
+
+Name: theme/css/bootstrap.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZSfYvz4ek2i6uMe2D1a8Afo6/Wg=
+SHA256-Digest: 916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=
+
+Name: theme/img/minus.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EaXkxvvwG1wyQBBoAoXNv+qzAH0=
+SHA256-Digest: GUkuSzMVQxixJQ78BTrIoekzHBEHDXRbHmKcSwp13ZE=
+
+Name: theme/img/split.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3HC/VHcamTDoZ1gfPqwuW9o5fCk=
+SHA256-Digest: /9SkAJMeFzFbmrk2OQR/u5kGFOajNxdePBZ5Co/MMUM=
+
+Name: theme/img/plus.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8AkarvdzmlwMMTZjNxsqp0Hr7p4=
+SHA256-Digest: iZkTkbPx/Efyuw2OWoRN4caAUnuEiSOszjgm0/6q640=
+
+Name: theme/img/xss_alert.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OFV1To/JMxxn3S0Hidny1ufaros=
+SHA256-Digest: AR9OM9hrRIB4or1WtwYHcLLAeehqrStymKsNshZ1jzQ=
+
+Name: theme/img/lowercase.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3Cu78VKmWxN1thR5EZCO7OZiEQc=
+SHA256-Digest: 5d3naiz8z5pbb5lznIY5W0CXJrRJXg34HVIptNhAUvY=
+
+Name: theme/img/database_convert.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ba2NxMuTKkgyJkwW/VepI1wbN0U=
+SHA256-Digest: VvJ8pL47VE8bJagyExT3oAyNjG+chSIwl1ZrDsl2c9Y=
+
+Name: theme/img/downarrow2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6I9cTmWseiUmG1JkCVGjdnvfbB8=
+SHA256-Digest: 4ppb2CjhcT0ZDedFvXCC4QV3F+xxNlM83A7KrFrmIP0=
+
+Name: theme/img/database.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jwAV6MCea2vjYdx6EDmmoDiRdd4=
+SHA256-Digest: rE/0ZxMTDe+EGBaGVpjgfxg+81TMJhqFqAAUAd4Tnws=
+
+Name: theme/img/stripspaces.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eeffzOTEwUmQy1nawQuHr4VGMWQ=
+SHA256-Digest: 3UxLOHzoPEiZnSAmn73j+0m++2+z4W4K4cq/ogLkw90=
+
+Name: theme/img/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OTHwhz7XgFTEtsHTQ2uhOxeqZtQ=
+SHA256-Digest: Bxj8i+1EYGAfljZPHsZ021UwLqDDpYl3NDO3vqLZJkU=
+
+Name: theme/img/hexdecode.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OUkoLOAcDcMVIO+x6LlxJSLpP7o=
+SHA256-Digest: rZMJkoI0UJo+HRr7sjtsQipgjpeQ9UVDZz16K7jRtAo=
+
+Name: theme/img/uue.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Pcodb/5o0ho5QZcgZJajAaFKmlQ=
+SHA256-Digest: NCdlRyfNoj+bEj8xSo8hxuvgupTEgopNaRNcwdBIuDI=
+
+Name: theme/img/urld.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: K2BvmWOFwEOS9TSKNJpET1wcziM=
+SHA256-Digest: xLDrYRsNR2Oh0SOte6dROl4yhaQaY93JhM9a1iRIpQs=
+
+Name: theme/img/hexencode.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NdyL0gjoHEFsnK9BogTIVTx9CGU=
+SHA256-Digest: WV8v1W0T2vpiHQ5PjrubvK6Nqw7FN/cJVwyBYcdDl3g=
+
+Name: theme/img/downarrow.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 94jtEF/LbPgI/XlQywNewYtTu70=
+SHA256-Digest: 2jTQYCe1uilJoHxuXIWjWjVXWQwXHlhfgEcZCO8YEf8=
+
+Name: theme/img/encryption.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wetnhKHS7U3IviBXlN5QrMMUQBo=
+SHA256-Digest: Eu0OHP8LLuqZooqkceOqxeEf781WITMkmi0Aj4zm4M0=
+
+Name: theme/img/xss.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nSRwxwcC+hVCJ2jlWI6u9EEnx+c=
+SHA256-Digest: 52atZlKN6LXUUxDnJ5Oat9GWFXNPnRP3rYt2NPnIkbs=
+
+Name: theme/img/web.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Hc3a4SCzVs1UJh4HxvCtAPtyrw0=
+SHA256-Digest: SFCKQvLz5Jr1uiMxC88hqbyoWtRgUUpL/uWysZO3tas=
+
+Name: theme/img/uud.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NgzCS3U60K+QyTWJuJYPJvPP0yc=
+SHA256-Digest: 757OBNuGxTavwfX/uV+4iktimj3C7Z8rnoOtn7rzHRg=
+
+Name: theme/img/mysql.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jjR9TjweQNY0K9kAfGBSllLv/Po=
+SHA256-Digest: DowDY36OVdv4ODMk3Zb5wv+3hx7Y6H7zMSp5jgiA/C8=
+
+Name: theme/img/encryption_weak.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lsjk3uML6AwCPYBw3WCRJd/Zn6M=
+SHA256-Digest: nZPEu4eUD9DhJu+ilaUn/CmgcJiIdR4jZmib1jJ5f1A=
+
+Name: theme/img/load.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jFwyiLF50xsPv+3dpm54677qC4I=
+SHA256-Digest: 12zqznolc65mntASHOJ7x6qk0WXmAJPBTepGLGB8IoI=
+
+Name: theme/img/uppercase.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XkN3CO7vidV5Dg2cfchqcZRf3P4=
+SHA256-Digest: C7bxp4ymt/NGvlYLcJXLPc2sP/oMjssETf1bwwB/fhY=
+
+Name: theme/img/urle.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8WGfw5oYc7+KrBVExegUIYjJgG8=
+SHA256-Digest: AqpxByBtBOapOuSKJ0Q53+Z8uDBrOgdVQ089N44XPSg=
+
+Name: theme/img/hackbar_icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mbpcTvw09Ko0wtmOY34PSTUZdXU=
+SHA256-Digest: HzWfVBwK1cDsCPo3uHMHlxshXk2AWNVet1XJuSpvqw8=
+
+Name: theme/img/addslashes.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: b+VaYR+dMOtz0cHOtjBxZP6SIAU=
+SHA256-Digest: 0ts9ycMCeSzJFUUeg5U5Iw0Ax0jTlMnWIYAxN3mEUIc=
+
+Name: theme/js/jquery-3.4.0.slim.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jiyTGyuWX5h7/ARECGSeL7RgkRc=
+SHA256-Digest: ZaXnYkHGqIhqTbJ6MB4l9Frs/r7U4jlx7ir8PJYBqbI=
+
+Name: theme/js/Encrypt.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cOzY5bhgpJi22djbew0cvEcmdi0=
+SHA256-Digest: E0oC6a+zH3uOycu8sHgaSuMiCgbfDU/hS7DwNTdO6L0=
+
+Name: theme/js/post_form.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: D5unAoczkbPyJFrq7qtXpUDtme8=
+SHA256-Digest: BLEq7K3XQGfo339SLzjzpo7LBKHNyegpMGtXnFTTw3E=
+
+Name: theme/js/hackbar-panel.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: V4HR5KSTsSaNfOTQaDkVK5us0qQ=
+SHA256-Digest: S4Cy3SZO/0YofsdP6QVVW+DXQcw4uoa4auuaq+l+vWk=
+
+Name: theme/js/XSS.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2ylPI/usJuIG/S+zF9BjaHYZBzo=
+SHA256-Digest: Fe7FkeaImL//LXG/bOVbD4MjCfxXp9jqOpL8snj2l90=
+
+Name: theme/js/bootstrap.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QwpEPXSDD+m+Ju/KQx9EjBs3QPk=
+SHA256-Digest: U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=
+
+Name: theme/js/SQL.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: v0BHkSHzyEDhMfonXKZ42l3fbXM=
+SHA256-Digest: POQOk4EM0ZcNE2URVSNqR38ibC8pL8jZ+43hVNENyeE=
+
+Name: theme/js/hackbar.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: xL01uXblp9xS/h3JTMD+Xklx1BI=
+SHA256-Digest: xym1VETYYq6Jclqadb7ItTmxjiWg8lmEX6dN+6DDMeQ=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MCfTarII6/JMvHKUbzI9PXqZ470=
+SHA256-Digest: /E29mDmZBpjZ85Zy1CEDDm2Ze2Q+pFTLbYVDs/WhJjs=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rg1z+IprY2BQCk/ENicz9kQZsFM=
+SHA256-Digest: eLaPeNhOQEzeeo+eo2FPELtcIAbffJOPCEQhQlFMA40=
+

